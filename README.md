@@ -1,8 +1,10 @@
 # AutoCaseCreation-trigger
 
-This Apex trigger automatically creates a Case record when an Opportunity is closed as lost and its probability of closing is less than 50%. The case subject and description are constructed based on the Opportunity name and the related Account name. 
+This Apex trigger automatically creates a Case record when an Opportunity is closed as lost and its probability of closing is less than 50%. The case subject and description are constructed based on the Opportunity name and the related Account name.
 
 This can be useful for your sales team to follow up on lost opportunities and improve their win rate.
+
+-----
 
 Before using this trigger you need to create custom field OpportunityId:
 1. From the Object Manager Object Manager page, select an object Case.
