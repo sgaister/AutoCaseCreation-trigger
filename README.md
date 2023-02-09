@@ -12,8 +12,8 @@ Before using this trigger you need to create custom field OpportunityId:
 4. From the sidebar, click <b>Fields & Relationships</b>.
 5. Click <b>New</b> to create a custom field.
 6. Choose a data type as <b>Text</b>. Click Next.
-7. <b>Field Label</b>: OpportunityId
-   <b>Length </br>: 20
+7. <b>Field Label</b>: OpportunityId </br>
+   <b>Length</b>: 20 </br>
    <b>Field Name</b>: OpportunityId
 8. Select the field’s visibility and edit access.
 9. Click Next. Then click Save.
