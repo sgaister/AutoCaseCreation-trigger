@@ -7,7 +7,7 @@ This can be useful for your sales team to follow up on lost opportunities and im
 -----
 
 Before using this trigger you need to create custom field OpportunityId:
-1. From the Object Manager Object Manager page, select an object Case.
+1. From the Object Manager page, select an object Case.
 4. From the sidebar, click Fields & Relationships.
 5. Click New to create a custom field.
 6. Choose a data type as Text. Click Next.
